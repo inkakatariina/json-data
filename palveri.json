@@ -1,16 +1,11 @@
 {
     "palaveri": {
-        "aihe": "Projektin eteneminen",
+        "aihe": "Kehityspalaveri",
         "osallistujienLukumaara": 5,
-        "osallistujat": [
-            "Mikko Mallikas",
-            "Anna Malli",
-            "Esa Merkki",
-            "Liisa Virtanen",
-            "Pekka Niemi"
-        ],
-        "paikka": "Ratapihantie 13, Helsinki",
-        "alkaminen": "2024-12-01T10:00:00",
-        "kesto": "2h"
+        "paikka": "Tila 101",
+        "alkaminen": "2024-11-29T10:00:00",
+        "kesto": "2 tuntia",
+        "osallistujat": ["Matti", "Liisa", "Kalle", "Eeva", "Jani"]
     }
 }
+
